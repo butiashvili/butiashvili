@@ -12,6 +12,16 @@
 
 ---
 
+## 🎲 Random Facts About Me:
+
+- 🎧 Favorite song: Travis Scott – "Till Further Notice"
+- 📽️ Favorite TV series: "Prison Break"
+- 🎞️ Favorite movie: "Interstellar"
+- 🎮 Favorite video game: Sea Of Thieves
+- 📱 I love watching football
+
+---
+
 🎯 A motivated beginner programmer, passionate about technology, open-source projects, and continuous learning.
 
 ---
