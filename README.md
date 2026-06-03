@@ -15,9 +15,9 @@
 ## 🎲 Random Facts About Me:
 
 - 🎧 Favorite song: Travis Scott – "Till Further Notice"
-- 📽️ Favorite TV series: "Prison Break"
+- 📽️ Favorite TV series: "Prison Break and Breaking Bad"
 - 🎞️ Favorite movie: "Interstellar"
-- 🎮 Favorite video game: Sea Of Thieves
+- 🎮 Favorite video game: Red Dead Redemption II
 - 📱 I love watching football
 
 ---
