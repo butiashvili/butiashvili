@@ -57,7 +57,7 @@
 ## 📫 How to reach me:
 
 - 📧 Email: `nikolozibutiashvili@gmail.com`  
-- 💬 Discord: `nikaaaaaaaa`  
+- 💬 Discord: `nikushhah`  
 - 📷 Instagram: [@butiashvili_nika](https://www.instagram.com/butiashvili_nika/) 
 
 ---
