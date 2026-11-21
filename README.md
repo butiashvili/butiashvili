@@ -30,6 +30,9 @@
 - html  
 - css  
 - java script
+- React.js
+- App.js
+- Node.js
 ---
 
 ## 🔧Technologies and tools:
